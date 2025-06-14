@@ -1,5 +1,5 @@
 # java_first_game-
-it was the first game that i haave built using a java and it have some features that are listed below 
+it was the first game that i have built using a java and it have some features that are listed below 
 # FirstGame - Java Console Game
 
 This is a simple Java-based console game designed to run in a terminal or through Visual Studio Code using the built-in Java Debugger. It is intended for educational purposes and beginner-level Java learning.
@@ -40,14 +40,9 @@ javac FirstGame.java
 java FirstGame
 
 
-Debug Using VS Code
-Open the folder containing FirstGame.java in VS Code.
-Click on the Run and Debug icon on the left sidebar.
-Click Run and Debug (or press F5).
-Set breakpoints by clicking next to line numbers in FirstGame.java.
-Use the debug panel to step through your code.
+![Screenshot 2025-06-14 205444](https://github.com/user-attachments/assets/42b95685-aa93-453c-8cda-dcb85f72a2ad)
 
-![image](https://github.com/user-attachments/assets/6e9b06dd-bcd7-4aa5-a2b4-3e59ba534c28)
-![image](https://github.com/user-attachments/assets/a134b8e0-dd85-4043-a335-a887d0dcc023)
+![Screenshot 2025-06-14 205610](https://github.com/user-attachments/assets/dacbe0f2-d692-42f0-aae8-11b96611efdd)
+
 
 
